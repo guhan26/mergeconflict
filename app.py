@@ -1,1 +1,5 @@
-print("Hello word")
+import time
+
+time.sleep(1)
+print("guhan")
+
